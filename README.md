@@ -46,9 +46,11 @@ Click `Save Changes`
 ![Payments Menu](images/screenshot_2.png)
 
 > easyCheckout Popup
+
 ![Popup](images/screenshot_3.png)
 
 > easyCheckout Hosted
+
 ![Payments Menu](images/screenshot_4.png)
 
 ## Frequently Asked Questions
