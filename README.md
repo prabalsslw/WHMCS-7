@@ -71,8 +71,9 @@ Click `Save Changes`
 ### To know more visit [Developer Page](https://developer.sslcommerz.com/doc/v4/#easy-chechout "SSLCommerz Developer Page")
 
 
-- Author : Prabal Mallick
+- Author : SSLCOMMERZ
+- Developed By: Prabal Mallick
 - Team Email: integration@sslcommerz.com (For any query)
-- AboutSSLCommerz: https://www.sslcommerz.com
+- About SSLCommerz: https://www.sslcommerz.com
 
 © 2020 SSLCOMMERZ ALL RIGHTS RESERVED
